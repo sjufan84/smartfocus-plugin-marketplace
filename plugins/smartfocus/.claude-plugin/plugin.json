@@ -1,0 +1,12 @@
+{
+  "name": "smartfocus",
+  "version": "0.4.0",
+  "description": "Run AI-powered focus groups from your coding agent. Get qualitative user feedback on designs, features, and concepts without leaving your workflow.",
+  "author": {
+    "name": "SmartFocus",
+    "url": "https://www.smartfocus.ai"
+  },
+  "homepage": "https://www.smartfocus.ai/developers",
+  "license": "MIT",
+  "keywords": ["focus-group", "user-research", "qualitative", "feedback", "ux"]
+}

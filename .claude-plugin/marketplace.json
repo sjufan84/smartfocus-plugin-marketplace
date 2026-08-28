@@ -1,0 +1,17 @@
+{
+  "name": "smartfocus",
+  "owner": {
+    "name": "SmartFocus",
+    "email": "dave_thomas@enoughwebapp.com"
+  },
+  "interface": {
+    "displayName": "SmartFocus Plugins"
+  },
+  "plugins": [
+    {
+      "name": "smartfocus",
+      "source": "./plugins/smartfocus",
+      "category": "Productivity"
+    }
+  ]
+}

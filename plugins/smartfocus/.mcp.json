@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "smartfocus": {
+      "type": "http",
+      "url": "https://ca-smartfocus-mcp-prod.delightfuldesert-d0350dc0.eastus2.azurecontainerapps.io/mcp"
+    }
+  }
+}
